@@ -8,13 +8,17 @@
   },
   "dependencies": {
     "lodash": "^4.17.11",
+    "md5": "^2.2.1",
     "react": "^16.8.6",
     "react-native": "0.59.4",
+    "react-native-device-info": "^1.4.3",
     "react-native-snap-carousel": "^3.7.5",
+    "react-redux": "^7.0.2",
     "redux": "^4.0.1",
     "redux-actions": "^2.6.5",
     "redux-logger": "^3.0.6",
     "redux-persist": "^5.10.0",
+    "redux-persist-transform-encrypt": "^2.0.1",
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
